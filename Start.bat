@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando o sistema Eva Boutique...
+start "" "eva-boutique.exe"
